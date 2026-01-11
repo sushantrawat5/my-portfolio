@@ -1,0 +1,82 @@
+Sushant Rawat  
+Contact: +91-7837321992  |  Email: mr.sushant10@gmail.com  |  LinkedIn:sushantrawat511 
+Career Objective___________________________________________________ 
+Aiming to achieve a challenging and successful career where I can make a significant contribution 
+using my innovative ideas, knowledge, skills and experience with the objective of development and 
+growth of the organization. 
+Career Summary___________________________________________________ 
+● Total experience of 10.2 years, currently working with Nagarro Software from August, 2022 
+● Previously worked with Infosys, EXL Services and Ernst & Young (EY) 
+● Experience in .Net Standard, .Net Core, Web API, MVC, Micro Service, Angular 9 and Azure Cloud 
+● Worked with Agile Methodology, Git, TFS, Jira, Confluence, Azure DevOps and Octopus Deploy 
+● Excellent communication skills, self-motivated, dedicated and committed to delivery and 
+timelines 
+● Key awards and recognition from Employer/Clients 
+Technical Skills_____________________________________________________ 
+Programming languages and 
+Design patterns 
+C#, Python, Seed, CQRS, Factory, Singleton, DI, Builder, 
+Observer 
+Technologies 
+.Net Standard, .Net Core, Azure (Functions, Web Apps, SignalR, 
+Docker, Service Bus), Web API, MVC, Swagger, MicroServices, 
+Angular 9 
+Project Details_____________________________________________________ 
+Aptis: 
+Role: Tech Lead  
+Skills: C#, Web API, .NET Core, Azure,    
+Angular 9 
+Aptis is an innovative assessment tool that helps accurately test English language skills – 
+reading, writing, listening and speaking. It is recognized worldwide by many universities and 
+Organizations for admissions and recruitments. 
+Responsibilities: 
+• Addition of new features like payment gateway and multifactor authentication 
+• Development, Testing, Implementation, Production Support, Maintenance, Release 
+Activities. 
+EY Atom: 
+Role: Developer 
+Skills:  C#, SQL, ASP.Net, Web API, Python 
+Atom is a Software Asset Management tool developed at EY which runs licensing scripts on 
+the client network in order to analyze the license violations and generate the reports 
+accordingly. 
+Responsibilities: 
+• Addition of new features and implementation of Web API and Python bots 
+• Development, Testing, Implementation, Modification and Client-side execution. 
+LifePRO: 
+Role: Developer     
+Skills: C#, SQL, ASP.Net, Web API 
+LifePRO is a product developed at EXL to serve the clients who are in the domain of insurance. It 
+performs the calculations of all insurance related services and provides the business logic for them 
+using the web API. 
+Responsibilities: 
+• Development of APIs and end to end requirement gathering and delivery to clients. 
+• Development, Testing, Implementation, Production Support, Maintenance, Release 
+Activities. 
+Claims mobile app : 
+Role: Developer 
+Skills: Xamarin Forms, Web API, C# 
+This mobile app is used by employees of Infosys to apply for reimbursement of their various claims. 
+Using Xamarin forms it was simultaneously developed for iOS and Android platforms. 
+Responsibilities: 
+• Accessing the camera and gallery features and saving images to the server using 
+web API methods. 
+• Development from scratch, Testing, Implementation of Business Logic, Release 
+Activities. 
+Achievements_____________________________________________________ 
+● Earned Employee of the Month Award twice at British Council. 
+● Earned Extra Miler award at EXL Services Ltd. for exceeding the client expectations and 
+improving the existing project. 
+● Earned Customer Delight award at Infosys Ltd. 
+● Earned Technical/domain champ and Insta award at Infosys Ltd. for crucial bug fixing and 
+improving the performance of the applications. 
+Academic Details___________________________________________________ 
+• B. Tech. [2015] with aggregate of 74.9 from G. B. Pant Govt. Engineering College, Delhi 
+• Intermediate [2010] with aggregate of 80 from B. R. G. S. B. V, Delhi 
+• High School [2008] with an aggregate of 85.6 from B. R. G. S. B. V, Delhi 
+Other Information__________________________________________________ 
+Birth 
+Marital Status 
+Passport 
+November, 1992 
+Married 
+Available 
